@@ -1,10 +1,14 @@
 # Faina.PT
 
+![map-1019895_640.jpg](map-1019895_640.jpg)
+
 ## What is Faina.pt for?
 > [Faina.pt](faina.pt) is a [Google Group](https://groups.google.com/) created to help and support people *(mostly Portuguese)*
 > finding their way around the world *(mostly London city or all over the UK)*.
 > 
 > You can ask anything, just be polite and respectful with each-other.
+
+![treat-others-the-way-you-want-to-be-treated.jpg](treat-others-the-way-you-want-to-be-treated.jpg)
 
 * To be part of [Faina.PT](faina.pt)'s Google-Group, first you need to accept an invite.
 
