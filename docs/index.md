@@ -16,8 +16,8 @@
 
 
 ## How to I send messages to Faina.PT?
-* 1. You need to be part of the group
-* 2. Send you email to [fainapt@googlegroups.com](fainapt@googlegroups.com)
+1. You need to be part of the group
+2. Send you email to [fainapt@googlegroups.com](fainapt@googlegroups.com)
 
 
 ## How do I see previous messages?
