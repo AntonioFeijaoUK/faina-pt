@@ -3,14 +3,14 @@
 ![map-1019895_640.jpg](map-1019895_640.jpg)
 
 ## What is Faina.pt for?
-> [Faina.pt](faina.pt) is a [Google Group](https://groups.google.com/) created to help and support people *(mostly Portuguese)*
+> [Faina.pt](http://faina.pt) is a [Google Group](https://groups.google.com/) created to help and support people *(mostly Portuguese)*
 > finding their way around the world *(mostly London city or all over the UK)*.
 > 
 > You can ask anything, just be polite and respectful with each-other.
 
 ![treat-others-the-way-you-want-to-be-treated.jpg](treat-others-the-way-you-want-to-be-treated.jpg)
 
-* To be part of [Faina.PT](faina.pt)'s Google-Group, first you need to accept an invite.
+* To be part of [Faina.PT](http://faina.pt)'s Google-Group, first you need to accept an invite.
 
 * If you wish to receive a invite, please send a brief email to [fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com) and mention how you can contribute or why you want to be part of this group.
 
@@ -35,4 +35,4 @@
 
 
 Hope this was helpful!
-[FeijaoUK](feijaouk.com)
+[FeijaoUK](http://feijaouk.com)
