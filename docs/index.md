@@ -12,11 +12,11 @@
 
 * To be part of [Faina.PT](http://faina.pt)'s Google-Group, first you need to accept an invite.
 
-* If you wish to receive a invite, please send a brief email to [fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com) and mention how you can contribute or why you want to be part of this group.
+* If you wish to receive a invite, please send a brief email to fainapt+owners@googlegroups.com and mention how you can contribute or why you want to be part of this group.
 
 
 ## How to I removed myself from the group?
-* To remove yourself from the group and stop receiving email, just send an email to [fainapt+unsubscribe@googlegroups.com](fainapt+unsubscribe@googlegroups.com)
+* To remove yourself from the group and stop receiving email, just send an email to ```fainapt+unsubscribe@googlegroups.com```
 
 
 ## How to I send messages to Faina.PT?
@@ -29,10 +29,10 @@
 
 
 ## Any suggestions or ideas?
-* Please email the group or any private send it to the owners email [fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com) 
+* Please email the group or any private send it to the owners email ```fainapt+owners@googlegroups.com``` 
 
 
 
 
 Hope this was helpful!
-[FeijaoUK](http://feijaouk.com)
+[FeijaoUK](https://feijaouk.com)
