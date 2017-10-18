@@ -16,12 +16,12 @@
 
 
 ## How to I removed myself from the group?
-* To remove yourself from the group and stop receiving email, just send an email to ```fainapt+unsubscribe@googlegroups.com```
+* To remove yourself from the group and stop receiving email, just send an email to fainapt+unsubscribe@googlegroups.com
 
 
 ## How to I send messages to Faina.PT?
 1. You need to be part of the group
-2. Send you email to [fainapt@googlegroups.com](fainapt@googlegroups.com)
+2. Send you email to fainapt@googlegroups.com
 
 
 ## How do I see previous messages?
@@ -29,7 +29,7 @@
 
 
 ## Any suggestions or ideas?
-* Please email the group or any private send it to the owners email ```fainapt+owners@googlegroups.com``` 
+* Please email the group or any private send it to the owners email fainapt+owners@googlegroups.com
 
 
 
