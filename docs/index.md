@@ -8,10 +8,9 @@
 
 ## What is Faina.pt for?
 
-> [Faina.pt](http://faina.pt) is a [Google Group](https://groups.google.com/) created to help and support people *(mostly Portuguese)*
-> finding their way around the world *(mostly London city or all over the UK)*.
-> 
-> You can ask anything, just be polite and respectful with each-other.
+[Faina.pt](http://faina.pt) is a [Google Group](https://groups.google.com/) created to help and support people *(mostly Portuguese)* finding their way around the world *(mostly London city or all over the UK)*.
+
+You can ask anything, just be polite and respectful with each-other.
 
 ---
 
@@ -19,40 +18,39 @@
 
 ---
 
-* To be part of [Faina.PT](http://faina.pt)'s Google-Group, you first need to accept an invite.
+To be part of [Faina.PT](http://faina.pt)'s Google-Group, you first need to accept an invite.
 
-* If you wish to receive a invite, please send a brief email to **[fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com)** and mention how you can contribute or why you want to be part of this group.
+If you wish to receive a invite, please send a brief email to **[fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com)** and mention how you can contribute or why you want to be part of this group.
 
 ---
 
 ## How do I removed myself from the group?
 
-* To remove yourself from the group and stop receiving email, just send an email to **[fainapt+unsubscribe@googlegroups.com](fainapt+unsubscribe@googlegroups.com)**
+To remove yourself from the group and stop receiving email, just send an email to **[fainapt+unsubscribe@googlegroups.com](fainapt+unsubscribe@googlegroups.com)**
 
 ---
 
 ## How do I send messages to Faina.PT?
 
-* 1) You need to be part of the group
+1) You need to be part of the group
 
-* 2) Send you email to **[fainapt@googlegroups.com](fainapt@googlegroups.com)**
+2) Send you email to **[fainapt@googlegroups.com](fainapt@googlegroups.com)**
 
 ---
 
 ## How do I see previous messages?
 
-* Follow this link to list all previous messages [https://groups.google.com/forum/#!categories/fainapt](https://groups.google.com/forum/#!categories/fainapt)
+Follow this link to list all previous messages [https://groups.google.com/forum/#!categories/fainapt](https://groups.google.com/forum/#!categories/fainapt)
 
 ---
 
 ## Any suggestions or ideas?
 
-* Please send your email with suggestion to the group or any private message send it to the group owner's email **[fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com)**
+Please send your email with suggestion to the group or any private message send it to the group owner's email **[fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com)**
 
 
 ---
 
-> Hope this was helpful!
->
-> All the best, [FeijaoUK](https://feijaouk.com)
->
+Hope this was helpful!
+
+All the best, [FeijaoUK](https://feijaouk.com)
