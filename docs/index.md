@@ -1,4 +1,4 @@
-# Faina.PT
+# [Faina.PT](https://www.faina.pt)
 
 ---
 
@@ -7,7 +7,7 @@
 ---
 ## What is Faina.PT ?
 
-[Faina.PT](http://faina.pt) is a [Faina.PT Google Group](https://groups.google.com/forum/#!categories/fainapt) created to help and support people *(mostly Portuguese)* finding their way around the world *(mostly London city or all over the UK)*.
+[Faina.PT](https://www.faina.pt) is a [Faina.PT Google Group](https://groups.google.com/forum/#!categories/fainapt) created to help and support people *(mostly Portuguese)* finding their way around the world *(mostly London city or all over the UK)*.
 
 You can ask anything, just be polite and respectful with each-other.
 
@@ -50,4 +50,7 @@ Please send your email with suggestion to the group or any private message send 
 
 Hope this was helpful!
 
-All the best, [FeijaoUK](https://feijaouk.com)
+All the best, [Antonio Feijao UK](https://antoniocloud.com)
+
+---
+
