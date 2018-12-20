@@ -1,7 +1,6 @@
 # [Faina.PT](https://www.faina.pt)
 
 ---
-
 ![map-1019895_640.jpg](map-1019895_640.jpg)
 
 ---
