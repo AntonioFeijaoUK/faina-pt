@@ -54,7 +54,8 @@ All the best, [Antonio Feijao UK](https://antoniocloud.com)
 
 ---
 
-``` WIP - https://www.christopherlovell.co.uk/blog/2015/04/13/google-analytics-ghpages.html
+```
+WIP - https://www.christopherlovell.co.uk/blog/2015/04/13/google-analytics-ghpages.html
 - {% include google_analytics.html %}
 - {% include analytics.html %}
 ```
