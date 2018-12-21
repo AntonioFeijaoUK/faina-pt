@@ -54,11 +54,9 @@ All the best, [Antonio Feijao UK](https://antoniocloud.com)
 ---
 
 
-{% highlight java %}
+{% highlight bash %}
 {% raw %}
-def faina
-  using a tip from, https://www.christopherlovell.co.uk/blog/2015/04/13/google-analytics-ghpages.html
-end
+using a tip from, https://www.christopherlovell.co.uk/blog/2015/04/13/google-analytics-ghpages.html
 {% endraw %}
 {% endhighlight %}
 
