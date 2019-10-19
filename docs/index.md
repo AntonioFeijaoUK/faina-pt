@@ -50,7 +50,6 @@ Follow this link to list all previous messages [https://groups.google.com/forum/
 
 Please send your email with suggestion to the group or any private message send it to the group owner's email **[fainapt+owners@googlegroups.com](fainapt+owners@googlegroups.com)**
 
-
 ---
 
 ## Here to help
@@ -61,13 +60,11 @@ All the best, [Antonio Feijao UK](https://antoniocloud.com)
 
 ---
 
-
 {% highlight bash %}
 {% raw %}
 using a tip from, https://www.christopherlovell.co.uk/blog/2015/04/13/google-analytics-ghpages.html
 {% endraw %}
 {% endhighlight %}
-
 
 {% include analytics.html %} 
 
