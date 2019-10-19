@@ -1,3 +1,20 @@
 theme: jekyll-theme-leap-day
+
 title: Faina PT, Faina Londrina, Portugueses em Londres
-Description: Faina PT em Londres
+description: Faina PT em Londres
+
+search: true
+
+markdown: kramdown
+
+timezone: GB
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
