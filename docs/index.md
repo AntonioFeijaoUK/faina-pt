@@ -1,4 +1,4 @@
-# [Faina.PT](https://www.faina.pt)
+# [Faina PT](https://www.faina.pt)
 
 ---
 
