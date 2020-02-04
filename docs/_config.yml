@@ -3,10 +3,13 @@
 title: Faina PT, Faina Londrina, Portugueses em Londres
 description: Faina PT em Londres
 
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: default
+
+
 twitter_username: AntonioFeijaoUK
 github_username: AntonioFeijaoUK
 
-minimal_mistakes_skin: default
 search: true
 
 # Build settings
