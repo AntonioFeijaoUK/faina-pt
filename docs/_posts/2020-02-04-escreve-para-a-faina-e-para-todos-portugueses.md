@@ -41,8 +41,20 @@ tags:
   - novidades-exemplo
 ---
 
-exemplo text...
+## sub titulo
+
+exemplo article interesting for many portugueses or.. maybe anyone in London or maybe anyone worldwide! ...
+
+text follows synta https://www.markdownguide.org/basic-syntax/
+
+
 
 ```
 
+sintax para o text - [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 
+
+
+All the best,
+
+Antonio
