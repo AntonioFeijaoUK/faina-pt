@@ -17,7 +17,7 @@ Template é
 
 ```text
 ---
-title: "Titulo do assusnto"
+title: "Titulo"
 author: Antonio Feijao UK
   name        : "Antonio Feijao UK"
   bio         : "AWS Cloud Architect, Networking and Security Specialty certified"
